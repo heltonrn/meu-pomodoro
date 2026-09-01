@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Meu Pomodoro",
+    "slug": "meu-pomodoro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FAF6EE",
+    "splash": {
+      "backgroundColor": "#FAF6EE"
+    },
+    "ios": { "supportsTablet": false },
+    "android": { "package": "com.meupomodoro.app" }
+  }
+}

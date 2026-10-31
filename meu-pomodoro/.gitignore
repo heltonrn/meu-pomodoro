@@ -1,0 +1,26 @@
+# dependências e builds
+node_modules/
+dist/
+.expo/
+web-build/
+android/
+ios/
+
+# assinatura e credenciais (nunca versionar)
+*.jks
+keystore.properties
+/credentials/
+hs_err_pid*.log
+replay_pid*.log
+*.keystore
+*.pem
+credentials.json
+credentials/
+.env
+.env.*
+scripts/set-signing-env.local.ps1
+
+# arquivos gerados
+expo-env.d.ts
+*.tsbuildinfo
+.DS_Store
